@@ -1,2 +1,3 @@
 # Java-messaging-chat-client-and-server
-A chat server and client that allows for comuunication
+A messaging server and client
+Uses Java sockets
